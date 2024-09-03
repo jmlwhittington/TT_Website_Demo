@@ -4,3 +4,4 @@ This is the *readme* file, written in **Markdown**, for the class exercise in **
 # More
 - [Other public repos of mine](https://github.com/jmlwhittington?tab=repositories)
 - [My website](https://jmlwhittington.com/)
+- [My CV](CV.md)
