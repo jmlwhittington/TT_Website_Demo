@@ -77,7 +77,7 @@ Sociopolitical phenomena of games (video and tabletop) and theme parks
 - HUMN 650: Expository Writing for Research
 ## Courses Tutored
 ### Marshall University *(as Graduate Assistant at H.E.L.P. Program, all tailored toward students with learning disabilities and/or ADHD)*
--RT 112: Introduction to the Visual Arts
+- ART 112: Introduction to the Visual Arts
 - BSC 105: Human Biology
 - CMM 103: Fundamentals of Speech Communication
 - CMM 322: Intercultural Communication
