@@ -33,7 +33,7 @@ Below lies a mixture of academic (▲), game design/development (■), and progr
 - **Technologies used:** [Microsoft Forms](https://en.wikipedia.org/wiki/Microsoft_Forms); [Google Forms](https://en.wikipedia.org/wiki/Google_Forms); [Visual Basic for Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications) in macro-enabled Excel spreadsheets; user documentation in Microsoft Word
 
 ## Experimental panels in public digital humanities with game fan communities at popular culture conventions ▲
-- Two attempts to bring game scholarship to gaming communities at large (as well as to invite audience participation and discussion) at popular culture conventions during summer 2023. The first was presented at HerdCon, hosted at Marshall University in Huntington, West Virginia, and was titled "The Relationship between Video Games and US Foreign Policy," adaptated from a conference paper presentation also at the university. The second occurred at PopCon Louisville in Louisville, Kentucky, and was titled "Wandering in the Expanse: Meaning-Making in *Minecraft*," which went on to inform my 2024 DiGRA extended abstract.
+- Two attempts to bring game scholarship to gaming communities at large (as well as to invite audience participation and discussion) at popular culture conventions during summer 2023. The first was presented at [HerdCon](https://www.marshall.edu/herdcon/), hosted at Marshall University in Huntington, West Virginia, and was titled "The Relationship between Video Games and US Foreign Policy," adaptated from a conference paper presentation also at the university. The second occurred at [PopCon Louisville](https://popcon.us/popcon-louisville/) in Louisville, Kentucky, and was titled "Wandering in the Expanse: Meaning-Making in *Minecraft*," which went on to inform my 2024 DiGRA extended abstract.
 - **Technologies used:** Microsoft PowerPoint; Google Slides; audiovisual equipment for presentation provided by venues
 
 ## Sha Ka Ree modpack for *Minecraft* version 1.18.2 ■
@@ -45,7 +45,7 @@ Below lies a mixture of academic (▲), game design/development (■), and progr
 - **Technologies used:** C# in Visual Studio; Twitter API; [RSS](https://en.wikipedia.org/wiki/RSS)
 
 ## Project Prometheus ■
-- A prototype of a [multiplayer online battle arena (MOBA)](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) in [Unreal Engine](https://en.wikipedia.org/wiki/Unreal_Engine) 4.26 based off a custom scenario from [*Empire Earth: The Art of Conquest*](https://en.wikipedia.org/wiki/Empire_Earth:_The_Art_of_Conquest) called "Mech Warrior."
+- A prototype of a [multiplayer online battle arena (MOBA)](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) in Unreal Engine 4.26 based off a custom scenario from [*Empire Earth: The Art of Conquest*](https://en.wikipedia.org/wiki/Empire_Earth:_The_Art_of_Conquest) called "Mech Warrior."
 - **Technologies used:** [Unreal Engine](https://en.wikipedia.org/wiki/Unreal_Engine) with [Blueprints](https://www.unrealengine.com/fr/blog/introduction-to-blueprints); [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/) free assets (now [Fab](https://www.fab.com/)); [Mixamo](https://www.mixamo.com/) for animations; [Mixamo Converter](https://terribilisstudio.fr/?section=MC) for making Mixamo animations usable; [Trello](https://en.wikipedia.org/wiki/Trello) for project management; [Google Workspace](https://en.wikipedia.org/wiki/Google_Workspace) for design documents and other materials
 
 ## UESRPG3eGMTool ●
