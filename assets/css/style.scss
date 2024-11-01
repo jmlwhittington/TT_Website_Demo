@@ -3,33 +3,40 @@
 
 @import "{{ site.theme }}";
 
+:root {
+/* WV Blue: #0A3161, WV Gold: #CFB53B */
+  --links: #0A3161;
+}
+
 body {
   background-color: #F5F5F5;
   font: 16px;
-  color:#444444;
+  color: #444444;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222222;
+  color: #222222;
 }
 
 a {
-  color:#CFB53B;
+  color: var(--links);
 }
 
 a:hover, a:focus {
-  color:#CFB53B;
-  font-weight: italic;
+  color: var(--links);
+  font-weight: normal;
+  font-style: italic;
 }
 
 a small {
-  font-size:12px;
-  color:#CFB53B;
+  font-size: 12px;
+  color: #CFB53B;
 }
 
 a:hover small {
-  color:#CFB53B;
-  font-weight: italic;
+  color: var(--links);
+  font-weight: normal;
+  font-style: italic;
 }
 
 ul.downloads {
@@ -40,20 +47,22 @@ ul.downloads {
 }
 
 .downloads a {
-  font-size:12px;
-  color:#CFB53B;
+  font-size: 12px;
+  color: var(--links);
 }
 
 .downloads a:hover, .downloads a:focus {
-  color:#CFB53B;
-  font-weight:italic;
+  color: var(--links);
+  font-weight: normal;
+  font-style: italic;
 }
 
 .downloads ul a:active {
-  background-color:#CFB53B;
-  font-weight:italic;
+  background-color: var(--links);
+  font-weight: normal;
+  font-style: italic;
 }
 
 small {
-  font-size:12px;
+  font-size: 12px;
 }
