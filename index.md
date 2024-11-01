@@ -26,8 +26,9 @@ Sociopolitical phenomena of games and theme parks
 
 # Featured publications and presentations
 1. "[Observant Play and Modding: The Postcolonial, Environmentalist Playthrough of *Minecraft*](https://dl.digra.org/index.php/dl/article/view/2249)," *Abstract Proceedings of DiGRA 2024 Conference: Playgrounds*, 2024
-2. "Sociopolitical Intrusion and Integration in the Theme Park Experience," Popular Culture Association - Disney Studies subject area, 2024
-3. "The Relationship between Video Games and US Foreign Policy," Marshall University College of Liberal Arts Research and Creativity Conference, 2023
+2. "Critical Game Design in Tabletop Roleplaying Games: A First-Person Exploration of Scholarly-Informed Development," written portion of final project for Master of Arts in Humanities from the Graduate Humanities Program at Marshall University, 2024
+3. "Sociopolitical Intrusion and Integration in the Theme Park Experience," Popular Culture Association - Disney Studies subject area, 2024
+4. "The Relationship between Video Games and US Foreign Policy," Marshall University College of Liberal Arts Research and Creativity Conference, 2023
 
 # Contact
 - Academic email: [jmlwhittington@ucf.edu](mailto:jmlwhittington@ucf.edu)
