@@ -1,3 +1,8 @@
+---
+layout: default
+title: CV
+---
+
 # J. M. L. Whittington
 ## Research Interests
 Sociopolitical phenomena of games (video and tabletop) and theme parks
