@@ -33,11 +33,11 @@ Below lies a mixture of academic (▲), game design/development (■), and progr
 - **Technologies used:** [Microsoft Forms](https://en.wikipedia.org/wiki/Microsoft_Forms); [Google Forms](https://en.wikipedia.org/wiki/Google_Forms); [Visual Basic for Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications) in macro-enabled Excel spreadsheets; user documentation in Microsoft Word
 
 ## Experimental panels in public digital humanities with game fan communities at popular culture conventions ▲
-- Two attempts to bring game scholarship to gaming communities at large (as well as to invite audience participation and discussion) at popular culture conventions during summer 2023. The first was presented at [HerdCon](https://www.marshall.edu/herdcon/), hosted at Marshall University in Huntington, West Virginia, and was titled "The Relationship between Video Games and US Foreign Policy," adaptated from a conference paper presentation also at the university. The second occurred at [PopCon Louisville](https://popcon.us/popcon-louisville/) in Louisville, Kentucky, and was titled "Wandering in the Expanse: Meaning-Making in *Minecraft*," which went on to inform my 2024 DiGRA extended abstract.
+- Two attempts to bring game scholarship to gaming communities at large (as well as to invite audience participation and discussion) at popular culture conventions during summer 2023. The first was presented at [HerdCon](https://www.marshall.edu/herdcon/), hosted at Marshall University in Huntington, West Virginia, and was titled "The Relationship between Video Games and US Foreign Policy," adaptated from a conference paper presentation also at the university. The second occurred at [PopCon Louisville](https://popcon.us/popcon-louisville/) in Louisville, Kentucky, and was titled "Wandering in the Expanse: Meaning-Making in *Minecraft*," which went on to inform my [2024 DiGRA extended abstract](https://dl.digra.org/index.php/dl/article/view/2249).
 - **Technologies used:** Microsoft PowerPoint; Google Slides; audiovisual equipment for presentation provided by venues
 
 ## Sha Ka Ree modpack for *Minecraft* version 1.18.2 ■
-- A *Minecraft* modpack developed for exploring environmentalist and postcolonial play, resulting in the work that became my 2024 DiGRA extended abstract.
+- A *Minecraft* modpack developed for exploring environmentalist and postcolonial play, resulting in the work that became my [2024 DiGRA extended abstract](https://dl.digra.org/index.php/dl/article/view/2249).
 - **Technologies used:** *Minecraft* version 1.18.2; [Forge mod loader](https://files.minecraftforge.net/net/minecraftforge/forge/); various mods developed by a larger community available at [CurseForge](https://www.curseforge.com/minecraft); [Notepad++](https://en.wikipedia.org/wiki/Notepad%2B%2B) for configuration of mods; various pieces of virtualization and server software for self-hosting the multiplayer aspect of the modpack
 
 ## RandomRSSTwitterBot ●
@@ -61,5 +61,5 @@ Below lies a mixture of academic (▲), game design/development (■), and progr
 - **Technologies used:** Modulate.ai's [VoiceWear](https://www.modulate.ai/blog/voicewear-individual-identity) (no longer available due to ethical consideration of product, new product shifts burden from abused to abusers)
 
 ##  West Virginia campaign setting for [Jason Mical's Fallout PnP 2.0 system](https://falloutpnp.fandom.com/wiki/Jason_Mical%27s_Pen_and_Paper_2.0) ■
-- As titled, developed first a campaign amongst friends before developing into a larger project, planned for conversion into a *Fallout 4* mod but abandoned following the announcement of *Fallout 76*.
+- As titled, developed first a campaign amongst friends before developing into a larger project, planned for conversion into a [*Fallout 4*](https://en.wikipedia.org/wiki/Fallout_4) mod but abandoned following the announcement of [*Fallout 76*](https://en.wikipedia.org/wiki/Fallout_76).
 - **Technologies used:** [Fandom wiki](https://en.wikipedia.org/wiki/Fandom_(website)) for system; [Google Workspace](https://en.wikipedia.org/wiki/Google_Workspace) for recording materials
