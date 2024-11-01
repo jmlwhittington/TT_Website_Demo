@@ -42,7 +42,7 @@ Below lies a mixture of academic (▲), game design/development (■), and progr
 
 ## RandomRSSTwitterBot ●
 - A Twitter bot written in C# using Tweetinvi and System.ServiceModel.Syndication to tweet a random article from a custom list of RSS feeds at a custom frequency in hours.
-- **Technologies used:** C# in Visual Studio; Twitter API; [RSS](https://en.wikipedia.org/wiki/RSS)
+- **Technologies used:** C# in Visual Studio; [Tweetinvi](https://github.com/linvi/tweetinvi) library; [System.ServiceModel.Syndication](https://www.nuget.org/packages/System.ServiceModel.Syndication/) package; Twitter API; [RSS](https://en.wikipedia.org/wiki/RSS)
 
 ## Project Prometheus ■
 - A prototype of a [multiplayer online battle arena (MOBA)](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) in Unreal Engine 4.26 based off a custom scenario from [*Empire Earth: The Art of Conquest*](https://en.wikipedia.org/wiki/Empire_Earth:_The_Art_of_Conquest) called "Mech Warrior."
@@ -53,12 +53,12 @@ Below lies a mixture of academic (▲), game design/development (■), and progr
 - **Technologies used:** C# in Visual Studio; Google Drive for accessing gameplay materials
 
 ## Unnamed economy apps contracted for public Minecraft server ●
-- A suite of economy apps written in Lua via ComputerCraft for a public *Minecraft* server, including banking/virtual currency, trading exchange akin to *RuneScape*'s [Grand Exchange](https://oldschool.runescape.wiki/w/Grand_Exchange), trade booths, and individual shops for players.
+- A suite of economy apps written in Lua via ComputerCraft for a public *Minecraft* server, including banking/virtual currency, trading exchange akin to [*RuneScape*](https://en.wikipedia.org/wiki/Old_School_RuneScape)'s [Grand Exchange](https://oldschool.runescape.wiki/w/Grand_Exchange), trade booths, and individual shops for players.
 - **Technologies used:** [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) via the [ComputerCraft](https://computercraft.cc/) mod for *Minecraft*
 
-## Modulate.ai VoiceWear closed alpha tester ●
+## [Modulate.ai](https://www.modulate.ai/) VoiceWear closed alpha tester ●
 - Testing of an AI-powered voice changing software, for my purposes to be used in running tabletop roleplaying games for providing more immersive experiences.
-- **Technologies used:** [Modulate.ai's VoiceWear](https://www.modulate.ai/blog/voicewear-individual-identity) (no longer available due to ethical consideration of product, new product shifts burden from abused to abusers)
+- **Technologies used:** Modulate.ai's [VoiceWear](https://www.modulate.ai/blog/voicewear-individual-identity) (no longer available due to ethical consideration of product, new product shifts burden from abused to abusers)
 
 ##  West Virginia campaign setting for [Jason Mical's Fallout PnP 2.0 system](https://falloutpnp.fandom.com/wiki/Jason_Mical%27s_Pen_and_Paper_2.0) ■
 - As titled, developed first a campaign amongst friends before developing into a larger project, planned for conversion into a *Fallout 4* mod but abandoned following the announcement of *Fallout 76*.
