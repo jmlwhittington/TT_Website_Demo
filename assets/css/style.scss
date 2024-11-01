@@ -1,1 +1,59 @@
+---
+---
 
+@import "{{ site.theme }}";
+
+body {
+  background-color: #F5F5F5;
+  font: 16px;
+  color:#444444;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:#222222;
+}
+
+a {
+  color:#CFB53B;
+}
+
+a:hover, a:focus {
+  color:#CFB53B;
+  font-weight: italic;
+}
+
+a small {
+  font-size:12px;
+  color:#CFB53B;
+}
+
+a:hover small {
+  color:#CFB53B;
+  font-weight: italic;
+}
+
+ul.downloads {
+  background: #0A3161;
+}
+
+.downloads li {
+}
+
+.downloads a {
+  font-size:12px;
+  color:#CFB53B;
+}
+
+.downloads a:hover, .downloads a:focus {
+  color:#CFB53B;
+  font-weight:italic;
+}
+
+.downloads ul a:active {
+  background-color:#CFB53B;
+  font-weight:italic;
+}
+
+small {
+  font-size:12px;
+}
