@@ -30,11 +30,6 @@ Sociopolitical phenomena of games and theme parks
 3. "Sociopolitical Intrusion and Integration in the Theme Park Experience," Popular Culture Association - Disney Studies subject area, 2024
 4. "The Relationship between Video Games and US Foreign Policy," Marshall University College of Liberal Arts Research and Creativity Conference, 2023
 
-# Contact
-- Academic email: [jmlwhittington@ucf.edu](mailto:jmlwhittington@ucf.edu)
-- Professional email: [justin.ml.whittington@gmail.com](mailto:justin.ml.whittington@gmail.com)
-- Schedule a meeting: [Google Calendar](https://calendar.app.google/VtgEnNJabtWtJm4f7)
-
 # Other web presences
 - [Primary website](https://jmlwhittington.com/)
 - [LinkedIn](https://www.linkedin.com/in/jmlwhittington/)
