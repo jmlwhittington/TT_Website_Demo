@@ -13,7 +13,9 @@ Elsewhere, I'm attached as a Research Assistant to a [John Deaver Drinko Academy
 ![ASA 2024](/assets/asa2024.jpg)
 <sub>From left to right: Cat Pleska, Dr. Luke Eric Lassiter, Dr. Chris Green, Michael Tierney, me, Trish Hatfield, and Anna Osborne</sub>
 
-My work has been featured at (inter)national conferences, including the [Digital Games Research Association](https://digra.org/), [Popular Culture Association](https://pcaaca.org/default.aspx), and [Appalachian Studies Association](https://www.appalachianstudies.org/). I've additionally had my hand over the years in music, game design/development, programming, homelabbing, and language/linguistics, at both professional and hobbyist levels across the board.
+My work has been featured at (inter)national conferences, including the [Digital Games Research Association](https://digra.org/), [Popular Culture Association](https://pcaaca.org/default.aspx), and [Appalachian Studies Association](https://www.appalachianstudies.org/). I've additionally had my hand over the years in music, game design/development, programming, homelabbing, and language/linguistics, at both professional and hobbyist levels.
+
+Finally, in my free time (what little graduate school affords), I play a fair amount of video games, namely strategy, simulation, survival, and adventure games. I've also been a gamemaster for almost thirteen years across at least ten different tabletop roleplaying systems, including one of my own design, although my home system is *Pathfinder First Edition*. I specialize in multimodal approaches to tabletops, hitting my players with worlds with depth, a visual for everything, audio when possible, and even experimentation with various technologies like digital assistant tools (to keep mechanics automated and roleplaying central) or voice changing software (for immersive character interactions). I enjoy going to theme parks as well, namely Walt Disney World for my two favorite parks, Epcot and Animal Kingdom. And I guess the occasional nature trip and karaoke.
 
 # Research interests
 The blurb I usually give is "sociopolitical phenomena of games and theme parks." Breaking that down more specifically:
