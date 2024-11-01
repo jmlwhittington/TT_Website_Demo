@@ -27,7 +27,7 @@ Sociopolitical phenomena of games and theme parks
 # Contact
 - Academic email: [jmlwhittington@ucf.edu](mailto:jmlwhittington@ucf.edu)
 - Professional email: [justin.ml.whittington@gmail.com](mailto:justin.ml.whittington@gmail.com)
-- Scheduling a meeting: [Google Calendar](https://calendar.app.google/VtgEnNJabtWtJm4f7)
+- Schedule a meeting: [Google Calendar](https://calendar.app.google/VtgEnNJabtWtJm4f7)
 
 # Other web presences
 - [Primary website](https://jmlwhittington.com/)
