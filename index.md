@@ -29,8 +29,3 @@ Sociopolitical phenomena of games and theme parks
 2. "Critical Game Design in Tabletop Roleplaying Games: A First-Person Exploration of Scholarly-Informed Development," written portion of final project for Master of Arts in Humanities from the Graduate Humanities Program at Marshall University, 2024
 3. "Sociopolitical Intrusion and Integration in the Theme Park Experience," Popular Culture Association - Disney Studies subject area, 2024
 4. "The Relationship between Video Games and US Foreign Policy," Marshall University College of Liberal Arts Research and Creativity Conference, 2023
-
-# Other web presences
-- [Primary website](https://jmlwhittington.com/)
-- [LinkedIn](https://www.linkedin.com/in/jmlwhittington/)
-- [GitHub](https://github.com/jmlwhittington)
