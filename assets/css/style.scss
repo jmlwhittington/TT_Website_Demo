@@ -4,18 +4,17 @@
 @import "{{ site.theme }}";
 
 :root {
-/* WV Blue: #0A3161, WV Gold: #CFB53B */
-  --links: #0A3161;
+  --links: #234471;
 }
 
 body {
   background-color: #F5F5F5;
   font: 16px;
-  color: #454545;
+  color: #333333;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #454545;
+  color: #333333;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
