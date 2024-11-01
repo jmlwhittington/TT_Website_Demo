@@ -5,8 +5,7 @@ title: CV
 
 ## Education
 - Ph.D. (expected 2028), [Texts and Technology](https://cah.ucf.edu/textstech/) (Digital Humanities), University of Central Florida.
-- M.A., Humanities (Cultural Studies and Arts and Society), Marshall University, 2024.
-    - Comprehensive exam passed with distinction. [Final project](https://jmlwhittington.com/publications-presentations/): "[Critical Game Design](https://direct.mit.edu/desi/article/39/1/4/114215/Introduction-Toward-Critical-Game-Design) in Tabletop Roleplaying Games: A First-Person Exploration of Scholarly-Informed Development."
+- M.A., Humanities (Cultural Studies and Arts and Society), Marshall University, 2024. Comprehensive exam passed with distinction. [Final project](https://jmlwhittington.com/publications-presentations/): "[Critical Game Design](https://direct.mit.edu/desi/article/39/1/4/114215/Introduction-Toward-Critical-Game-Design) in Tabletop Roleplaying Games: A First-Person Exploration of Scholarly-Informed Development."
 - B.S., [Communication Disorders](https://www.marshall.edu/communication-disorders/), Cum Laude, Marshall University, 2017.
 
 ## Publications
