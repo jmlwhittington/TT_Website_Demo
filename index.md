@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # About me
 Hello! While I publish/present under J. M. L. Whittington, you may call me Justin (he/they). I was born and raised in West Virginia, only recently moving to Orlando, Florida to enter the [Texts and Technology PhD program ](https://cah.ucf.edu/textstech/) at University of Central Florida as a student.
 
