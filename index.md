@@ -13,15 +13,18 @@ Elsewhere, I'm attached as a Research Assistant to a [John Deaver Drinko Academy
 ![ASA 2024](/assets/asa2024.jpg)
 <sub>From left to right: Cat Pleska, Dr. Luke Eric Lassiter, Dr. Chris Green, Michael Tierney, me, Trish Hatfield, and Anna Osborne</sub>
 
-My work has been presented at (inter)national conferences, including the Digital Games Research Association, Popular Culture Association, and Appalachian Studies Association. I've additionally had my hand over the years in music, game design/development, programming, homelabbing, and language/linguistics, at both professional and hobbyist levels across the board.
+My work has been featured at (inter)national conferences, including the [Digital Games Research Association](https://digra.org/), [Popular Culture Association](https://pcaaca.org/default.aspx), and [Appalachian Studies Association](https://www.appalachianstudies.org/). I've additionally had my hand over the years in music, game design/development, programming, homelabbing, and language/linguistics, at both professional and hobbyist levels across the board.
 
 # Research interests
-Sociopolitical phenomena of games and theme parks
-- Games
-    - Intersections of games with international relations/postcolonialism
-    - Appalachian game studies
-- Theme parks
-    - (Dis)ability and other bodily variation in the theme park
-    - Transgression in the theme park
-    - Theme parks as medium, theming as [culturonics](https://filosofia.dickinson.edu/encyclopedia/culturonics/)
-- [Middle-state publishing, feed-forward scholarship](https://www.firstpersonscholar.com/feed-forward-scholarship/), and public (digital) humanities
+The blurb I usually give is "sociopolitical phenomena of games and theme parks." Breaking that down more specifically:
+
+In games (video and tabletop):
+- Intersections of games with international relations/postcolonialism
+- [Appalachian game studies](https://groups.google.com/g/appalachian-game-studies)
+
+In theme parks:
+- (Dis)ability and other bodily variation in the theme park
+- Transgression in the theme park
+- Theme parks as medium, theming as [culturonics](https://filosofia.dickinson.edu/encyclopedia/culturonics/)
+
+A further interest of mine is in [middle-state publishing, feed-forward scholarship](https://www.firstpersonscholar.com/feed-forward-scholarship/), and public (digital) humanities.
