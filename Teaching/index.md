@@ -3,6 +3,16 @@ layout: default
 title: Teaching
 ---
 
+# Teaching interests
+- Game studies
+- Theme parks and [theming](https://www.academia.edu/28398854/A_Reader_In_Themed_and_Immersive_Spaces)
+- Film/TV (scifi, superhero, animation)
+- Politics in media
+- Ethnography
+- Public humanities
+- [Worldbuilding](https://en.wikipedia.org/wiki/Worldbuilding)
+- [Critical game design](https://direct.mit.edu/desi/article/39/1/4/114215/Introduction-Toward-Critical-Game-Design)
+
 # Courses taught
 ## Marshall University
 ### [HUMN 650: Expository Writing for Research](https://catalog.marshall.edu/graduate/courses-az/humn/) (as Teaching Assistant for [Trish Hatfield, MFA](https://www.marshall.edu/graduatehumanities/hatfield/), in the [Graduate Humanities Program](https://www.marshall.edu/graduatehumanities/))
