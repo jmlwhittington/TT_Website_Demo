@@ -10,7 +10,7 @@ title: CV
 
 ## Publications
 ### Peer Reviewed Conference Extended Abstracts
-- Whittington, J. M. L. "[Observant Play](https://gamestudies.org/2103/articles/hutchinson) and Modding: The Postcolonial, Environmentalist Playthrough of *Minecraft*." In *Abstract Proceedings of DiGRA 2024 Conference: Playgrounds*. [https://dl.digra.org/index.php/dl/article/view/2249](https://dl.digra.org/index.php/dl/article/view/2249). Guadalajara: Digital Games Research Association, 2024.
+- Whittington, J. M. L. "[Observant Play](https://gamestudies.org/2103/articles/hutchinson) and Modding: The Postcolonial, Environmentalist Playthrough of *Minecraft*." *Abstract Proceedings of DiGRA 2024 Conference: Playgrounds* (2024). [https://dl.digra.org/index.php/dl/article/view/2249](https://dl.digra.org/index.php/dl/article/view/2249).
 
 ## Presentations
 ### Conference Paper Presentations
