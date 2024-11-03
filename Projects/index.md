@@ -48,7 +48,7 @@ Below lies a mixture of academic (▲), game design/development (■), and progr
 - A prototype of a [multiplayer online battle arena (MOBA)](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) in Unreal Engine 4.26 based off a custom scenario from [*Empire Earth: The Art of Conquest*](https://en.wikipedia.org/wiki/Empire_Earth:_The_Art_of_Conquest) called "Mech Warrior."
 - **Technologies used:** [Unreal Engine](https://en.wikipedia.org/wiki/Unreal_Engine) with [Blueprints](https://www.unrealengine.com/fr/blog/introduction-to-blueprints); [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/) free assets (now [Fab](https://www.fab.com/)); [Mixamo](https://www.mixamo.com/) for animations; [Mixamo Converter](https://terribilisstudio.fr/?section=MC) for making Mixamo animations usable; [Trello](https://en.wikipedia.org/wiki/Trello) for project management; [Google Workspace](https://en.wikipedia.org/wiki/Google_Workspace) for design documents and other materials
 
-## [UESRPG3eGMTool](https://github.com/jmlwhittington/UESRPG3eGMTool) ●
+## UESRPG3eGMTool ●
 - A tool written in C# which assists the gamemaster of an [*Unofficial Elder Scrolls Roleplaying Game* (UESRPG)](https://uestrpg.com/) 3rd Edition session in automating the reading of stat blocks from the bestiary and other sources, as well as player attack and damage rolls against these.
 - **Technologies used:** C# in Visual Studio; Google Drive for accessing gameplay materials; GitHub for version control and releases
 
