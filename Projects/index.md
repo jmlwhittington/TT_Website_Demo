@@ -25,7 +25,7 @@ Below lies a mixture of academic (▲), game design/development (■), and progr
 # On hold
 ## PF1e Character Manager ●
 - A character creation and management tool written in C# for *Pathfinder First Edition*.
-- **Technologies used:** C# in Visual Studio; the [Pathfinder Reference Document](https://legacy.aonprd.com/) database
+- **Technologies used:** C# in Visual Studio; the [Pathfinder Reference Document](https://legacy.aonprd.com/) database; GitHub for version control
 
 # Completed
 ## Automation/process digitization for [Marshall University HELP Program](https://www.marshall.edu/help/) weekly logs and reports ●
@@ -42,7 +42,7 @@ Below lies a mixture of academic (▲), game design/development (■), and progr
 
 ## RandomRSSTwitterBot ●
 - A Twitter bot written in C# using Tweetinvi and System.ServiceModel.Syndication to tweet a random article from a custom list of RSS feeds at a custom frequency in hours.
-- **Technologies used:** C# in Visual Studio; [Tweetinvi](https://github.com/linvi/tweetinvi) library; [System.ServiceModel.Syndication](https://www.nuget.org/packages/System.ServiceModel.Syndication/) package; Twitter API; [RSS](https://en.wikipedia.org/wiki/RSS)
+- **Technologies used:** C# in Visual Studio; [Tweetinvi](https://github.com/linvi/tweetinvi) library; [System.ServiceModel.Syndication](https://www.nuget.org/packages/System.ServiceModel.Syndication/) package; Twitter API; [RSS](https://en.wikipedia.org/wiki/RSS); GitHub for version control and releases
 
 ## Project Prometheus ■
 - A prototype of a [multiplayer online battle arena (MOBA)](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) in Unreal Engine 4.26 based off a custom scenario from [*Empire Earth: The Art of Conquest*](https://en.wikipedia.org/wiki/Empire_Earth:_The_Art_of_Conquest) called "Mech Warrior."
@@ -50,11 +50,11 @@ Below lies a mixture of academic (▲), game design/development (■), and progr
 
 ## UESRPG3eGMTool ●
 - A tool written in C# which assists the gamemaster of an [*Unofficial Elder Scrolls Roleplaying Game* (UESRPG)](https://uestrpg.com/) 3rd Edition session in automating the reading of stat blocks from the bestiary and other sources, as well as player attack and damage rolls against these.
-- **Technologies used:** C# in Visual Studio; Google Drive for accessing gameplay materials
+- **Technologies used:** C# in Visual Studio; Google Drive for accessing gameplay materials; GitHub for version control and releases
 
 ## Unnamed economy apps contracted for public Minecraft server ●
 - A suite of economy apps written in Lua via ComputerCraft for a public *Minecraft* server, including banking/virtual currency, trading exchange akin to [*RuneScape*](https://en.wikipedia.org/wiki/Old_School_RuneScape)'s [Grand Exchange](https://oldschool.runescape.wiki/w/Grand_Exchange), trade booths, and individual shops for players.
-- **Technologies used:** [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) via the [ComputerCraft](https://computercraft.cc/) mod for *Minecraft*
+- **Technologies used:** [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) via the [ComputerCraft](https://computercraft.cc/) mod for *Minecraft*; GitHub for version control
 
 ## [Modulate.ai](https://www.modulate.ai/) VoiceWear closed alpha tester ●
 - Testing of an AI-powered voice changing software, for my purposes to be used in running tabletop roleplaying games for providing more immersive experiences.
