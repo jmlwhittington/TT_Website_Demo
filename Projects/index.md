@@ -40,7 +40,7 @@ Below lies a mixture of academic (▲), game design/development (■), and progr
 - A *Minecraft* modpack developed for exploring environmentalist and postcolonial play, resulting in the work that became my [2024 DiGRA extended abstract](https://dl.digra.org/index.php/dl/article/view/2249).
 - **Technologies used:** *Minecraft* version 1.18.2; [Forge mod loader](https://files.minecraftforge.net/net/minecraftforge/forge/); various mods developed by a larger community available at [CurseForge](https://www.curseforge.com/minecraft); [Notepad++](https://en.wikipedia.org/wiki/Notepad%2B%2B) for configuration of mods; various pieces of virtualization and server software for self-hosting the multiplayer aspect of the modpack
 
-## RandomRSSTwitterBot ●
+## [RandomRSSTwitterBot](https://github.com/jmlwhittington/RandomRSSTwitterBot) ●
 - A Twitter bot written in C# using Tweetinvi and System.ServiceModel.Syndication to tweet a random article from a custom list of RSS feeds at a custom frequency in hours.
 - **Technologies used:** C# in Visual Studio; [Tweetinvi](https://github.com/linvi/tweetinvi) library; [System.ServiceModel.Syndication](https://www.nuget.org/packages/System.ServiceModel.Syndication/) package; Twitter API; [RSS](https://en.wikipedia.org/wiki/RSS); GitHub for version control and releases
 
@@ -52,7 +52,7 @@ Below lies a mixture of academic (▲), game design/development (■), and progr
 - A tool written in C# which assists the gamemaster of an [*Unofficial Elder Scrolls Roleplaying Game* (UESRPG)](https://uestrpg.com/) 3rd Edition session in automating the reading of stat blocks from the bestiary and other sources, as well as player attack and damage rolls against these.
 - **Technologies used:** C# in Visual Studio; Google Drive for accessing gameplay materials; GitHub for version control and releases
 
-## Unnamed economy apps contracted for public Minecraft server ●
+## [econSuite](https://github.com/jmlwhittington/econSuite), economy apps contracted for public Minecraft server ●
 - A suite of economy apps written in Lua via ComputerCraft for a public *Minecraft* server, including banking/virtual currency, trading exchange akin to [*RuneScape*](https://en.wikipedia.org/wiki/Old_School_RuneScape)'s [Grand Exchange](https://oldschool.runescape.wiki/w/Grand_Exchange), trade booths, and individual shops for players.
 - **Technologies used:** [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) via the [ComputerCraft](https://computercraft.cc/) mod for *Minecraft*; GitHub for version control
 
