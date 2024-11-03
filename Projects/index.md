@@ -52,7 +52,7 @@ Below lies a mixture of academic (▲), game design/development (■), and progr
 - A tool written in C# which assists the gamemaster of an [*Unofficial Elder Scrolls Roleplaying Game* (UESRPG)](https://uestrpg.com/) 3rd Edition session in automating the reading of stat blocks from the bestiary and other sources, as well as player attack and damage rolls against these.
 - **Technologies used:** C# in Visual Studio; Google Drive for accessing gameplay materials; GitHub for version control and releases
 
-## [econSuite](https://github.com/jmlwhittington/econSuite), economy apps contracted for public Minecraft server ●
+## econSuite, economy apps contracted for public Minecraft server ●
 - A suite of economy apps written in Lua via ComputerCraft for a public *Minecraft* server, including banking/virtual currency, trading exchange akin to [*RuneScape*](https://en.wikipedia.org/wiki/Old_School_RuneScape)'s [Grand Exchange](https://oldschool.runescape.wiki/w/Grand_Exchange), trade booths, and individual shops for players.
 - **Technologies used:** [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) via the [ComputerCraft](https://computercraft.cc/) mod for *Minecraft*; GitHub for version control
 
